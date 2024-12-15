@@ -1,0 +1,24 @@
+{
+   "action": {
+      "default_icon": "icons/icon-128.png",
+      "default_popup": "popup.html",
+      "default_title": "Geometry Dash for Chrome"
+   },
+   "background": {
+      "service_worker": "javas/anainout.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://724fun.com/2022/10/29/geometry-dash/",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqe5SOb30bjR5Yemv03DDoe9TCAOOi3AX35tSDDf8w5y2yObNoW2495tAqMnWQPJYSfhAV6e4GL/+7GV0EdKbX5vWRMKNoUfUzoy2DNiybwrNrf2F/wj4yzpPbJXxS1EQDB10auMey8KXHaKaXvIGKpYJTshtloQUl+9C3j+n9vP2Gg2+ZjccKvW5zqj6sm+9cPW/dzBdNIOda9G2OYnlhw4JI8J0DqplLI+ChsUIJAVv/T+P9e2jDkNqhLlUHZ6sEFed6RY2XT+cfAuZNnFgNkeCPZetyEIZ2MpCRuRGFtYIi/xh7xr7xAaprXE50fNpHh/T56oF/HrecEpMmvIFOwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "9"
+}

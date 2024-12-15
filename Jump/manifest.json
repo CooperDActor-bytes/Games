@@ -1,0 +1,24 @@
+{
+   "action": {
+      "default_icon": "icons/icon-128.png",
+      "default_popup": "popup.html",
+      "default_title": "Stack Jump for Chrome"
+   },
+   "background": {
+      "service_worker": "javas/anainout.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://724fun.com/stack-jump/",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhv1buYgTS2+ZGI51ca9wHnyP+nHXIG0Rji1iWLvrgKtTxljutmu3dxMXV0gF+AqbjeVUTGt56p7WwefiUuQrP8ULkoGuvSPr8MHSC+ZKjVA/XNhB2c8Pj+sst8aLEWAdK+xysARa2AynoqrllFqqdCUvnf8x7bbK48C4is9hLN1fzFk7IieroJ/fSUlTS6g7k89RCx7gctyAXsZ2hcJduO38Fys8JzLJVP+hDQwDTNnQZVHIUuxZqdaNvhrelfEEbxeiTiT0YMuSVVdjqymuBdXFz7XngfyQAcSWJVz4fzV8p3F85BXoMYc1/jp/0SeFX+JI+e2DKPvchtCtLFS9MQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7"
+}

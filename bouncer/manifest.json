@@ -1,0 +1,24 @@
+{
+   "action": {
+      "default_icon": "icons/icon-128.png",
+      "default_popup": "popup.html",
+      "default_title": "Color Bouncer for Chrome"
+   },
+   "background": {
+      "service_worker": "javas/anainout.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://724fun.com/color-bouncer/",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+W5kvGLfTriKlTNze4J10uH/S5wMJ7u/zLAwTLGW5DNQ9TrdGRmDC2t0pvVBMY+XiTbHAvf5D2nyk/RP7YjWjSK8MRJlwbjcXR2aJGZEjer0qt1dpFDiWg8dxpYTExsZFyftmGHoyA1irCg0SE/GpO//Yf5seJQSXLEGRi6RGJl/LEtK5Ikytpxx2jOT8KMbZoy4uToPUWuY0dIkWpdLPeJlFxvN+zmhjIER5qLBWdQ1nM6TNDL+ISPAI+5ggffaK7b31Ki3PDJoutcXEWj91ob37/U0LrpRtUx7nlAPc6ArOp91+9ElND8l/I4lMpvcQw0h92v0xoU50LSR39vCewIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7"
+}
