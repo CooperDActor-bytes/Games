@@ -1,0 +1,13 @@
+{
+"companyName": "WEBGAMEAPP",
+"productName": "PUBG Craft BattleGrounds",
+"dataUrl": "PUBG Craft BattleGrounds.data.unityweb",
+"wasmCodeUrl": "PUBG Craft BattleGrounds.wasm.code.unityweb",
+"wasmFrameworkUrl": "PUBG Craft BattleGrounds.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "",
+"cacheControl": {"default": "must-revalidate"}
+}
